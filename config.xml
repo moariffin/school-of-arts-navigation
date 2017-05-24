@@ -30,11 +30,7 @@
     <plugin name="cordova-plugin-statusbar" source="npm" spec="~2.1.2" />
     <plugin name="cordova-plugin-vibration" source="npm" spec="~2.1.0" />
     <plugin name="cordova-plugin-whitelist" source="npm" spec="~1.2.1" />
-	
-	<icon src="icon_77.png" width="77" height="77" />
-	<icon src="icon_48.png" width="48" height="48" />
-	<icon src="icon_38.png" width="38" height="38" />
-    
+
     <access origin="*" />
     <allow-intent href="http://*/*" />
     <allow-intent href="https://*/*" />
