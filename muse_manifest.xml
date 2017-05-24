@@ -1,0 +1,645 @@
+<manifest alg="2" build="2017.0.2.363" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="school_of_arts_navigator.com" resolutions="1x" timestamp="1495596151257">
+  <folder name="css">
+    <file name="site_global.css" crc="443350757"/>
+    <file name="master_a-master.css" crc="4246099353" ref="gound-floor-office:ground-floor-hall:ground-floor-toilet:ground-floor:ground-floor-studio:ground-floor-workshop:ground-floor-classroom:ground-floor-music-room"/>
+    <file name="nomq_preview_master_a-master.css" crc="3824530138" ref="gound-floor-office:ground-floor-hall:ground-floor-toilet:ground-floor:ground-floor-studio:ground-floor-workshop:ground-floor-classroom:ground-floor-music-room"/>
+    <file name="master_c-master.css" crc="280332782" ref="second-floor:second-floor-toilet:second-floor-lab:second-floor-studio:second-floor-class-room"/>
+    <file name="master_b-master.css" crc="130145" ref="first-floor:first-floor-toilet:first-floor-classroom:first-floor-office:first-floor-studio"/>
+    <file name="nomq_preview_master_b-master.css" crc="190693587" ref="first-floor:first-floor-toilet:first-floor-classroom:first-floor-office:first-floor-studio"/>
+    <file name="gound-floor-office.css" crc="3826021196" ref="gound-floor-office"/>
+    <file name="ground-floor-hall.css" crc="452224998" ref="ground-floor-hall"/>
+    <file name="second-floor.css" crc="4212338998" ref="second-floor"/>
+    <file name="ground-floor-toilet.css" crc="3886712182" ref="ground-floor-toilet"/>
+    <file name="second-floor-toilet.css" crc="3986651207" ref="second-floor-toilet"/>
+    <file name="ground-floor.css" crc="61509392" ref="ground-floor"/>
+    <file name="first-floor.css" crc="304629069" ref="first-floor"/>
+    <file name="nomq_first-floor.css" crc="3924824365" ref="first-floor"/>
+    <file name="ground-floor-studio.css" crc="196378001" ref="ground-floor-studio"/>
+    <file name="nomq_ground-floor-studio.css" crc="3824530138" ref="ground-floor-studio"/>
+    <file name="first-floor-toilet.css" crc="4153532442" ref="first-floor-toilet"/>
+    <file name="nomq_first-floor-toilet.css" crc="3893006719" ref="first-floor-toilet"/>
+    <file name="ground-floor-workshop.css" crc="184258489" ref="ground-floor-workshop"/>
+    <file name="first-floor-classroom.css" crc="229802871" ref="first-floor-classroom"/>
+    <file name="nomq_first-floor-classroom.css" crc="4110711345" ref="first-floor-classroom"/>
+    <file name="second-floor-lab.css" crc="498719594" ref="second-floor-lab"/>
+    <file name="second-floor-studio.css" crc="3975051030" ref="second-floor-studio"/>
+    <file name="first-floor-office.css" crc="3862644749" ref="first-floor-office"/>
+    <file name="nomq_first-floor-office.css" crc="3882575107" ref="first-floor-office"/>
+    <file name="second-floor-class-room.css" crc="454039342" ref="second-floor-class-room"/>
+    <file name="ground-floor-classroom.css" crc="4268185520" ref="ground-floor-classroom"/>
+    <file name="ground-floor-music-room.css" crc="3834545763" ref="ground-floor-music-room"/>
+    <file name="first-floor-studio.css" crc="149357087" ref="first-floor-studio"/>
+    <file name="nomq_first-floor-studio.css" crc="466593576" ref="first-floor-studio"/>
+    <file name="index.css" crc="4027932915" ref="index"/>
+  </folder>
+  <folder name="scripts">
+    <file name="jquery-1.8.3.min.js" crc="209076791" ref="index:ground-floor:ground-floor-toilet:ground-floor-workshop:ground-floor-hall:ground-floor-music-room:ground-floor-classroom:gound-floor-office:ground-floor-studio:first-floor:first-floor-toilet:first-floor-classroom:first-floor-office:first-floor-studio:second-floor:second-floor-toilet:second-floor-lab:second-floor-class-room:second-floor-studio"/>
+    <file name="museutils.js" crc="4232573551" ref="index:ground-floor:ground-floor-toilet:ground-floor-workshop:ground-floor-hall:ground-floor-music-room:ground-floor-classroom:gound-floor-office:ground-floor-studio:first-floor:first-floor-toilet:first-floor-classroom:first-floor-office:first-floor-studio:second-floor:second-floor-toilet:second-floor-lab:second-floor-class-room:second-floor-studio"/>
+    <file name="whatinput.js" crc="86476730" ref="index:ground-floor:ground-floor-toilet:ground-floor-workshop:ground-floor-hall:ground-floor-music-room:ground-floor-classroom:gound-floor-office:ground-floor-studio:first-floor:first-floor-toilet:first-floor-classroom:first-floor-office:first-floor-studio:second-floor:second-floor-toilet:second-floor-lab:second-floor-class-room:second-floor-studio"/>
+    <file name="museconfig.js" crc="4152223963" ref="index:ground-floor:ground-floor-toilet:ground-floor-workshop:ground-floor-hall:ground-floor-music-room:ground-floor-classroom:gound-floor-office:ground-floor-studio:first-floor:first-floor-toilet:first-floor-classroom:first-floor-office:first-floor-studio:second-floor:second-floor-toilet:second-floor-lab:second-floor-class-room:second-floor-studio"/>
+    <file name="jquery.watch.js" crc="3844535323" ref="index:ground-floor:ground-floor-toilet:ground-floor-workshop:ground-floor-hall:ground-floor-music-room:ground-floor-classroom:gound-floor-office:ground-floor-studio:first-floor:first-floor-toilet:first-floor-classroom:first-floor-office:first-floor-studio:second-floor:second-floor-toilet:second-floor-lab:second-floor-class-room:second-floor-studio"/>
+    <file name="require.js" crc="4234670167" ref="index:ground-floor:ground-floor-toilet:ground-floor-workshop:ground-floor-hall:ground-floor-music-room:ground-floor-classroom:gound-floor-office:ground-floor-studio:first-floor:first-floor-toilet:first-floor-classroom:first-floor-office:first-floor-studio:second-floor:second-floor-toilet:second-floor-lab:second-floor-class-room:second-floor-studio"/>
+    <file name="jquery.museresponsive.js" crc="433634197" ref="first-floor:first-floor-toilet:first-floor-classroom:first-floor-office:first-floor-studio"/>
+  </folder>
+  <folder name="images">
+    <file name="welcome page-crop-u94.jpg" crc="3769155840" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="layer 13.png" crc="3996518183" seo="true" ref="ground-floor:ground-floor-toilet:ground-floor-workshop:ground-floor-hall:ground-floor-music-room:ground-floor-classroom:gound-floor-office:ground-floor-studio:first-floor:first-floor-toilet:first-floor-classroom:first-floor-office:first-floor-studio:second-floor:second-floor-toilet:second-floor-lab:second-floor-class-room:second-floor-studio">
+      <caption webpage="ground-floor-workshop" alt=""/>
+      <caption webpage="ground-floor-workshop" alt=""/>
+      <caption webpage="first-floor-studio" alt=""/>
+      <caption webpage="first-floor-studio" alt=""/>
+      <caption webpage="first-floor-studio" alt=""/>
+      <caption webpage="first-floor-studio" alt=""/>
+      <caption webpage="first-floor-studio" alt=""/>
+      <caption webpage="first-floor-studio" alt=""/>
+      <caption webpage="first-floor-office" alt=""/>
+      <caption webpage="first-floor-office" alt=""/>
+      <caption webpage="first-floor-office" alt=""/>
+      <caption webpage="first-floor-office" alt=""/>
+      <caption webpage="first-floor-office" alt=""/>
+      <caption webpage="first-floor-office" alt=""/>
+      <caption webpage="first-floor" alt=""/>
+      <caption webpage="first-floor" alt=""/>
+      <caption webpage="first-floor" alt=""/>
+      <caption webpage="first-floor" alt=""/>
+      <caption webpage="first-floor" alt=""/>
+      <caption webpage="first-floor" alt=""/>
+      <caption webpage="second-floor-lab" alt=""/>
+      <caption webpage="second-floor-lab" alt=""/>
+      <caption webpage="second-floor-lab" alt=""/>
+      <caption webpage="second-floor-lab" alt=""/>
+      <caption webpage="second-floor-toilet" alt=""/>
+      <caption webpage="second-floor-toilet" alt=""/>
+      <caption webpage="second-floor-toilet" alt=""/>
+      <caption webpage="second-floor-toilet" alt=""/>
+      <caption webpage="second-floor-class-room" alt=""/>
+      <caption webpage="second-floor-class-room" alt=""/>
+      <caption webpage="second-floor-class-room" alt=""/>
+      <caption webpage="second-floor-class-room" alt=""/>
+      <caption webpage="ground-floor-hall" alt=""/>
+      <caption webpage="ground-floor-hall" alt=""/>
+      <caption webpage="second-floor" alt=""/>
+      <caption webpage="second-floor" alt=""/>
+      <caption webpage="second-floor" alt=""/>
+      <caption webpage="second-floor" alt=""/>
+      <caption webpage="ground-floor-studio" alt=""/>
+      <caption webpage="ground-floor-studio" alt=""/>
+      <caption webpage="first-floor-toilet" alt=""/>
+      <caption webpage="first-floor-toilet" alt=""/>
+      <caption webpage="first-floor-toilet" alt=""/>
+      <caption webpage="first-floor-toilet" alt=""/>
+      <caption webpage="first-floor-toilet" alt=""/>
+      <caption webpage="first-floor-toilet" alt=""/>
+      <caption webpage="first-floor-classroom" alt=""/>
+      <caption webpage="first-floor-classroom" alt=""/>
+      <caption webpage="first-floor-classroom" alt=""/>
+      <caption webpage="first-floor-classroom" alt=""/>
+      <caption webpage="first-floor-classroom" alt=""/>
+      <caption webpage="first-floor-classroom" alt=""/>
+      <caption webpage="gound-floor-office" alt=""/>
+      <caption webpage="gound-floor-office" alt=""/>
+      <caption webpage="ground-floor-classroom" alt=""/>
+      <caption webpage="ground-floor-classroom" alt=""/>
+      <caption webpage="ground-floor" alt=""/>
+      <caption webpage="ground-floor" alt=""/>
+      <caption webpage="ground-floor-music-room" alt=""/>
+      <caption webpage="ground-floor-music-room" alt=""/>
+      <caption webpage="second-floor-studio" alt=""/>
+      <caption webpage="second-floor-studio" alt=""/>
+      <caption webpage="second-floor-studio" alt=""/>
+      <caption webpage="second-floor-studio" alt=""/>
+      <caption webpage="ground-floor-toilet" alt=""/>
+      <caption webpage="ground-floor-toilet" alt=""/>
+    </file>
+    <file name="layer 13 copy 3.png" crc="3870085455" seo="true" ref="ground-floor:ground-floor-toilet:ground-floor-workshop:ground-floor-hall:ground-floor-music-room:ground-floor-classroom:gound-floor-office:ground-floor-studio:first-floor:first-floor-toilet:first-floor-classroom:first-floor-office:first-floor-studio:second-floor:second-floor-toilet:second-floor-lab:second-floor-class-room:second-floor-studio">
+      <caption webpage="ground-floor-workshop" alt=""/>
+      <caption webpage="ground-floor-workshop" alt=""/>
+      <caption webpage="first-floor-studio" alt=""/>
+      <caption webpage="first-floor-studio" alt=""/>
+      <caption webpage="first-floor-studio" alt=""/>
+      <caption webpage="first-floor-studio" alt=""/>
+      <caption webpage="first-floor-office" alt=""/>
+      <caption webpage="first-floor-office" alt=""/>
+      <caption webpage="first-floor-office" alt=""/>
+      <caption webpage="first-floor-office" alt=""/>
+      <caption webpage="first-floor" alt=""/>
+      <caption webpage="first-floor" alt=""/>
+      <caption webpage="first-floor" alt=""/>
+      <caption webpage="first-floor" alt=""/>
+      <caption webpage="second-floor-lab" alt=""/>
+      <caption webpage="second-floor-lab" alt=""/>
+      <caption webpage="second-floor-lab" alt=""/>
+      <caption webpage="second-floor-toilet" alt=""/>
+      <caption webpage="second-floor-toilet" alt=""/>
+      <caption webpage="second-floor-toilet" alt=""/>
+      <caption webpage="second-floor-class-room" alt=""/>
+      <caption webpage="second-floor-class-room" alt=""/>
+      <caption webpage="second-floor-class-room" alt=""/>
+      <caption webpage="ground-floor-hall" alt=""/>
+      <caption webpage="ground-floor-hall" alt=""/>
+      <caption webpage="second-floor" alt=""/>
+      <caption webpage="second-floor" alt=""/>
+      <caption webpage="second-floor" alt=""/>
+      <caption webpage="ground-floor-studio" alt=""/>
+      <caption webpage="ground-floor-studio" alt=""/>
+      <caption webpage="first-floor-toilet" alt=""/>
+      <caption webpage="first-floor-toilet" alt=""/>
+      <caption webpage="first-floor-toilet" alt=""/>
+      <caption webpage="first-floor-toilet" alt=""/>
+      <caption webpage="first-floor-classroom" alt=""/>
+      <caption webpage="first-floor-classroom" alt=""/>
+      <caption webpage="first-floor-classroom" alt=""/>
+      <caption webpage="first-floor-classroom" alt=""/>
+      <caption webpage="gound-floor-office" alt=""/>
+      <caption webpage="gound-floor-office" alt=""/>
+      <caption webpage="ground-floor-classroom" alt=""/>
+      <caption webpage="ground-floor-classroom" alt=""/>
+      <caption webpage="ground-floor" alt=""/>
+      <caption webpage="ground-floor" alt=""/>
+      <caption webpage="ground-floor-music-room" alt=""/>
+      <caption webpage="ground-floor-music-room" alt=""/>
+      <caption webpage="second-floor-studio" alt=""/>
+      <caption webpage="second-floor-studio" alt=""/>
+      <caption webpage="second-floor-studio" alt=""/>
+      <caption webpage="ground-floor-toilet" alt=""/>
+      <caption webpage="ground-floor-toilet" alt=""/>
+    </file>
+    <file name="layer 10.png" crc="4002327553" seo="true" ref="ground-floor:ground-floor-toilet:ground-floor-workshop:ground-floor-hall:ground-floor-music-room:ground-floor-classroom:gound-floor-office:ground-floor-studio:first-floor:first-floor-toilet:first-floor-classroom:first-floor-office:first-floor-studio:second-floor:second-floor-toilet:second-floor-lab:second-floor-class-room:second-floor-studio">
+      <caption webpage="ground-floor-workshop" alt=""/>
+      <caption webpage="ground-floor-workshop" alt=""/>
+      <caption webpage="first-floor-studio" alt=""/>
+      <caption webpage="first-floor-studio" alt=""/>
+      <caption webpage="first-floor-studio" alt=""/>
+      <caption webpage="first-floor-studio" alt=""/>
+      <caption webpage="first-floor-studio" alt=""/>
+      <caption webpage="first-floor-studio" alt=""/>
+      <caption webpage="first-floor-office" alt=""/>
+      <caption webpage="first-floor-office" alt=""/>
+      <caption webpage="first-floor-office" alt=""/>
+      <caption webpage="first-floor-office" alt=""/>
+      <caption webpage="first-floor-office" alt=""/>
+      <caption webpage="first-floor-office" alt=""/>
+      <caption webpage="first-floor" alt=""/>
+      <caption webpage="first-floor" alt=""/>
+      <caption webpage="first-floor" alt=""/>
+      <caption webpage="first-floor" alt=""/>
+      <caption webpage="first-floor" alt=""/>
+      <caption webpage="first-floor" alt=""/>
+      <caption webpage="second-floor-lab" alt=""/>
+      <caption webpage="second-floor-lab" alt=""/>
+      <caption webpage="second-floor-lab" alt=""/>
+      <caption webpage="second-floor-lab" alt=""/>
+      <caption webpage="second-floor-toilet" alt=""/>
+      <caption webpage="second-floor-toilet" alt=""/>
+      <caption webpage="second-floor-toilet" alt=""/>
+      <caption webpage="second-floor-toilet" alt=""/>
+      <caption webpage="second-floor-class-room" alt=""/>
+      <caption webpage="second-floor-class-room" alt=""/>
+      <caption webpage="second-floor-class-room" alt=""/>
+      <caption webpage="second-floor-class-room" alt=""/>
+      <caption webpage="ground-floor-hall" alt=""/>
+      <caption webpage="ground-floor-hall" alt=""/>
+      <caption webpage="second-floor" alt=""/>
+      <caption webpage="second-floor" alt=""/>
+      <caption webpage="second-floor" alt=""/>
+      <caption webpage="second-floor" alt=""/>
+      <caption webpage="ground-floor-studio" alt=""/>
+      <caption webpage="ground-floor-studio" alt=""/>
+      <caption webpage="first-floor-toilet" alt=""/>
+      <caption webpage="first-floor-toilet" alt=""/>
+      <caption webpage="first-floor-toilet" alt=""/>
+      <caption webpage="first-floor-toilet" alt=""/>
+      <caption webpage="first-floor-toilet" alt=""/>
+      <caption webpage="first-floor-toilet" alt=""/>
+      <caption webpage="first-floor-classroom" alt=""/>
+      <caption webpage="first-floor-classroom" alt=""/>
+      <caption webpage="first-floor-classroom" alt=""/>
+      <caption webpage="first-floor-classroom" alt=""/>
+      <caption webpage="first-floor-classroom" alt=""/>
+      <caption webpage="first-floor-classroom" alt=""/>
+      <caption webpage="gound-floor-office" alt=""/>
+      <caption webpage="gound-floor-office" alt=""/>
+      <caption webpage="ground-floor-classroom" alt=""/>
+      <caption webpage="ground-floor-classroom" alt=""/>
+      <caption webpage="ground-floor" alt=""/>
+      <caption webpage="ground-floor" alt=""/>
+      <caption webpage="ground-floor-music-room" alt=""/>
+      <caption webpage="ground-floor-music-room" alt=""/>
+      <caption webpage="second-floor-studio" alt=""/>
+      <caption webpage="second-floor-studio" alt=""/>
+      <caption webpage="second-floor-studio" alt=""/>
+      <caption webpage="second-floor-studio" alt=""/>
+      <caption webpage="ground-floor-toilet" alt=""/>
+      <caption webpage="ground-floor-toilet" alt=""/>
+    </file>
+    <file name="ground floor.png" crc="3884500664" seo="true" ref="ground-floor:ground-floor-toilet:ground-floor-workshop:ground-floor-hall:ground-floor-music-room:ground-floor-classroom:gound-floor-office:ground-floor-studio">
+      <caption webpage="ground-floor-workshop" alt=""/>
+      <caption webpage="gound-floor-office" alt=""/>
+      <caption webpage="ground-floor-studio" alt=""/>
+      <caption webpage="ground-floor-hall" alt=""/>
+      <caption webpage="ground-floor-classroom" alt=""/>
+      <caption webpage="ground-floor" alt=""/>
+      <caption webpage="ground-floor-music-room" alt=""/>
+      <caption webpage="ground-floor-toilet" alt=""/>
+    </file>
+    <file name="layer 14.png" crc="4012872077" seo="true" ref="ground-floor:ground-floor-toilet:ground-floor-workshop:ground-floor-hall:ground-floor-music-room:ground-floor-classroom:gound-floor-office:ground-floor-studio:first-floor:first-floor-toilet:first-floor-classroom:first-floor-office:first-floor-studio:second-floor:second-floor-toilet:second-floor-lab:second-floor-class-room:second-floor-studio">
+      <caption webpage="ground-floor-workshop" alt=""/>
+      <caption webpage="first-floor-studio" alt=""/>
+      <caption webpage="first-floor-studio" alt=""/>
+      <caption webpage="first-floor-office" alt=""/>
+      <caption webpage="first-floor-office" alt=""/>
+      <caption webpage="first-floor" alt=""/>
+      <caption webpage="first-floor" alt=""/>
+      <caption webpage="second-floor-lab" alt=""/>
+      <caption webpage="second-floor-toilet" alt=""/>
+      <caption webpage="second-floor-class-room" alt=""/>
+      <caption webpage="ground-floor-hall" alt=""/>
+      <caption webpage="second-floor" alt=""/>
+      <caption webpage="ground-floor-studio" alt=""/>
+      <caption webpage="first-floor-toilet" alt=""/>
+      <caption webpage="first-floor-toilet" alt=""/>
+      <caption webpage="first-floor-classroom" alt=""/>
+      <caption webpage="first-floor-classroom" alt=""/>
+      <caption webpage="gound-floor-office" alt=""/>
+      <caption webpage="ground-floor-classroom" alt=""/>
+      <caption webpage="ground-floor" alt=""/>
+      <caption webpage="ground-floor-music-room" alt=""/>
+      <caption webpage="second-floor-studio" alt=""/>
+      <caption webpage="ground-floor-toilet" alt=""/>
+    </file>
+    <file name="spaces.png" crc="3984486748" seo="true" ref="ground-floor:ground-floor-toilet:ground-floor-workshop:ground-floor-hall:ground-floor-music-room:ground-floor-classroom:gound-floor-office:ground-floor-studio:first-floor:first-floor-toilet:first-floor-classroom:first-floor-office:first-floor-studio:second-floor:second-floor-toilet:second-floor-lab:second-floor-class-room:second-floor-studio">
+      <caption webpage="ground-floor-workshop" alt=""/>
+      <caption webpage="first-floor-studio" alt=""/>
+      <caption webpage="first-floor-studio" alt=""/>
+      <caption webpage="first-floor-office" alt=""/>
+      <caption webpage="first-floor-office" alt=""/>
+      <caption webpage="first-floor" alt=""/>
+      <caption webpage="first-floor" alt=""/>
+      <caption webpage="second-floor-lab" alt=""/>
+      <caption webpage="second-floor-toilet" alt=""/>
+      <caption webpage="second-floor-class-room" alt=""/>
+      <caption webpage="ground-floor-hall" alt=""/>
+      <caption webpage="second-floor" alt=""/>
+      <caption webpage="ground-floor-studio" alt=""/>
+      <caption webpage="first-floor-toilet" alt=""/>
+      <caption webpage="first-floor-toilet" alt=""/>
+      <caption webpage="first-floor-classroom" alt=""/>
+      <caption webpage="first-floor-classroom" alt=""/>
+      <caption webpage="gound-floor-office" alt=""/>
+      <caption webpage="ground-floor-classroom" alt=""/>
+      <caption webpage="ground-floor" alt=""/>
+      <caption webpage="ground-floor-music-room" alt=""/>
+      <caption webpage="second-floor-studio" alt=""/>
+      <caption webpage="ground-floor-toilet" alt=""/>
+    </file>
+    <file name="layer 2.png" crc="372686260" seo="true" ref="ground-floor:ground-floor-toilet:ground-floor-workshop:ground-floor-hall:ground-floor-music-room:ground-floor-classroom:gound-floor-office:ground-floor-studio:first-floor:first-floor-toilet:first-floor-classroom:first-floor-office:first-floor-studio:second-floor:second-floor-toilet:second-floor-lab:second-floor-class-room:second-floor-studio">
+      <caption webpage="ground-floor-workshop" alt=""/>
+      <caption webpage="first-floor-studio" alt=""/>
+      <caption webpage="first-floor-studio" alt=""/>
+      <caption webpage="first-floor-office" alt=""/>
+      <caption webpage="first-floor-office" alt=""/>
+      <caption webpage="first-floor" alt=""/>
+      <caption webpage="first-floor" alt=""/>
+      <caption webpage="second-floor-lab" alt=""/>
+      <caption webpage="second-floor-toilet" alt=""/>
+      <caption webpage="second-floor-class-room" alt=""/>
+      <caption webpage="ground-floor-hall" alt=""/>
+      <caption webpage="second-floor" alt=""/>
+      <caption webpage="ground-floor-studio" alt=""/>
+      <caption webpage="first-floor-toilet" alt=""/>
+      <caption webpage="first-floor-toilet" alt=""/>
+      <caption webpage="first-floor-classroom" alt=""/>
+      <caption webpage="first-floor-classroom" alt=""/>
+      <caption webpage="gound-floor-office" alt=""/>
+      <caption webpage="ground-floor-classroom" alt=""/>
+      <caption webpage="ground-floor" alt=""/>
+      <caption webpage="ground-floor-music-room" alt=""/>
+      <caption webpage="second-floor-studio" alt=""/>
+      <caption webpage="ground-floor-toilet" alt=""/>
+    </file>
+    <file name="layer 3.png" crc="295050048" seo="true" ref="ground-floor:ground-floor-toilet:ground-floor-workshop:ground-floor-hall:ground-floor-music-room:ground-floor-classroom:gound-floor-office:ground-floor-studio:first-floor:first-floor-toilet:first-floor-classroom:first-floor-office:first-floor-studio:second-floor:second-floor-toilet:second-floor-lab:second-floor-class-room:second-floor-studio">
+      <caption webpage="ground-floor-workshop" alt=""/>
+      <caption webpage="first-floor-studio" alt=""/>
+      <caption webpage="first-floor-studio" alt=""/>
+      <caption webpage="first-floor-office" alt=""/>
+      <caption webpage="first-floor-office" alt=""/>
+      <caption webpage="first-floor" alt=""/>
+      <caption webpage="first-floor" alt=""/>
+      <caption webpage="second-floor-lab" alt=""/>
+      <caption webpage="second-floor-toilet" alt=""/>
+      <caption webpage="second-floor-class-room" alt=""/>
+      <caption webpage="ground-floor-hall" alt=""/>
+      <caption webpage="second-floor" alt=""/>
+      <caption webpage="ground-floor-studio" alt=""/>
+      <caption webpage="first-floor-toilet" alt=""/>
+      <caption webpage="first-floor-toilet" alt=""/>
+      <caption webpage="first-floor-classroom" alt=""/>
+      <caption webpage="first-floor-classroom" alt=""/>
+      <caption webpage="gound-floor-office" alt=""/>
+      <caption webpage="ground-floor-classroom" alt=""/>
+      <caption webpage="ground-floor" alt=""/>
+      <caption webpage="ground-floor-music-room" alt=""/>
+      <caption webpage="second-floor-studio" alt=""/>
+      <caption webpage="ground-floor-toilet" alt=""/>
+    </file>
+    <file name="layer 4.png" crc="182203912" seo="true" ref="ground-floor:ground-floor-toilet:ground-floor-workshop:ground-floor-hall:ground-floor-music-room:ground-floor-classroom:gound-floor-office:ground-floor-studio:first-floor:first-floor-toilet:first-floor-classroom:first-floor-office:first-floor-studio:second-floor:second-floor-toilet:second-floor-lab:second-floor-class-room:second-floor-studio">
+      <caption webpage="ground-floor-workshop" alt=""/>
+      <caption webpage="first-floor-studio" alt=""/>
+      <caption webpage="first-floor-studio" alt=""/>
+      <caption webpage="first-floor-office" alt=""/>
+      <caption webpage="first-floor-office" alt=""/>
+      <caption webpage="first-floor" alt=""/>
+      <caption webpage="first-floor" alt=""/>
+      <caption webpage="second-floor-lab" alt=""/>
+      <caption webpage="second-floor-toilet" alt=""/>
+      <caption webpage="second-floor-class-room" alt=""/>
+      <caption webpage="ground-floor-hall" alt=""/>
+      <caption webpage="second-floor" alt=""/>
+      <caption webpage="ground-floor-studio" alt=""/>
+      <caption webpage="first-floor-toilet" alt=""/>
+      <caption webpage="first-floor-toilet" alt=""/>
+      <caption webpage="first-floor-classroom" alt=""/>
+      <caption webpage="first-floor-classroom" alt=""/>
+      <caption webpage="gound-floor-office" alt=""/>
+      <caption webpage="ground-floor-classroom" alt=""/>
+      <caption webpage="ground-floor" alt=""/>
+      <caption webpage="ground-floor-music-room" alt=""/>
+      <caption webpage="second-floor-studio" alt=""/>
+      <caption webpage="ground-floor-toilet" alt=""/>
+    </file>
+    <file name="layer 5.png" crc="4040232023" seo="true" ref="ground-floor:ground-floor-toilet:ground-floor-workshop:ground-floor-hall:ground-floor-music-room:ground-floor-classroom:gound-floor-office:ground-floor-studio:first-floor:first-floor-toilet:first-floor-classroom:first-floor-office:first-floor-studio:second-floor:second-floor-toilet:second-floor-lab:second-floor-class-room:second-floor-studio">
+      <caption webpage="ground-floor-workshop" alt=""/>
+      <caption webpage="first-floor-studio" alt=""/>
+      <caption webpage="first-floor-studio" alt=""/>
+      <caption webpage="first-floor-office" alt=""/>
+      <caption webpage="first-floor-office" alt=""/>
+      <caption webpage="first-floor" alt=""/>
+      <caption webpage="first-floor" alt=""/>
+      <caption webpage="second-floor-lab" alt=""/>
+      <caption webpage="second-floor-toilet" alt=""/>
+      <caption webpage="second-floor-class-room" alt=""/>
+      <caption webpage="ground-floor-hall" alt=""/>
+      <caption webpage="second-floor" alt=""/>
+      <caption webpage="ground-floor-studio" alt=""/>
+      <caption webpage="first-floor-toilet" alt=""/>
+      <caption webpage="first-floor-toilet" alt=""/>
+      <caption webpage="first-floor-classroom" alt=""/>
+      <caption webpage="first-floor-classroom" alt=""/>
+      <caption webpage="gound-floor-office" alt=""/>
+      <caption webpage="ground-floor-classroom" alt=""/>
+      <caption webpage="ground-floor" alt=""/>
+      <caption webpage="ground-floor-music-room" alt=""/>
+      <caption webpage="second-floor-studio" alt=""/>
+      <caption webpage="ground-floor-toilet" alt=""/>
+    </file>
+    <file name="layer 6.png" crc="144260430" seo="true" ref="ground-floor:ground-floor-toilet:ground-floor-workshop:ground-floor-hall:ground-floor-music-room:ground-floor-classroom:gound-floor-office:ground-floor-studio:first-floor:first-floor-toilet:first-floor-classroom:first-floor-office:first-floor-studio:second-floor:second-floor-toilet:second-floor-lab:second-floor-class-room:second-floor-studio">
+      <caption webpage="ground-floor-workshop" alt=""/>
+      <caption webpage="first-floor-studio" alt=""/>
+      <caption webpage="first-floor-studio" alt=""/>
+      <caption webpage="first-floor-office" alt=""/>
+      <caption webpage="first-floor-office" alt=""/>
+      <caption webpage="first-floor" alt=""/>
+      <caption webpage="first-floor" alt=""/>
+      <caption webpage="second-floor-lab" alt=""/>
+      <caption webpage="second-floor-toilet" alt=""/>
+      <caption webpage="second-floor-class-room" alt=""/>
+      <caption webpage="ground-floor-hall" alt=""/>
+      <caption webpage="second-floor" alt=""/>
+      <caption webpage="ground-floor-studio" alt=""/>
+      <caption webpage="first-floor-toilet" alt=""/>
+      <caption webpage="first-floor-toilet" alt=""/>
+      <caption webpage="first-floor-classroom" alt=""/>
+      <caption webpage="first-floor-classroom" alt=""/>
+      <caption webpage="gound-floor-office" alt=""/>
+      <caption webpage="ground-floor-classroom" alt=""/>
+      <caption webpage="ground-floor" alt=""/>
+      <caption webpage="ground-floor-music-room" alt=""/>
+      <caption webpage="second-floor-studio" alt=""/>
+      <caption webpage="ground-floor-toilet" alt=""/>
+    </file>
+    <file name="layer 7.png" crc="4177721938" seo="true" ref="ground-floor:ground-floor-toilet:ground-floor-workshop:ground-floor-hall:ground-floor-music-room:ground-floor-classroom:gound-floor-office:ground-floor-studio:first-floor:first-floor-toilet:first-floor-classroom:first-floor-office:first-floor-studio:second-floor:second-floor-toilet:second-floor-lab:second-floor-class-room:second-floor-studio">
+      <caption webpage="ground-floor-workshop" alt=""/>
+      <caption webpage="first-floor-studio" alt=""/>
+      <caption webpage="first-floor-studio" alt=""/>
+      <caption webpage="first-floor-office" alt=""/>
+      <caption webpage="first-floor-office" alt=""/>
+      <caption webpage="first-floor" alt=""/>
+      <caption webpage="first-floor" alt=""/>
+      <caption webpage="second-floor-lab" alt=""/>
+      <caption webpage="second-floor-toilet" alt=""/>
+      <caption webpage="second-floor-class-room" alt=""/>
+      <caption webpage="ground-floor-hall" alt=""/>
+      <caption webpage="second-floor" alt=""/>
+      <caption webpage="ground-floor-studio" alt=""/>
+      <caption webpage="first-floor-toilet" alt=""/>
+      <caption webpage="first-floor-toilet" alt=""/>
+      <caption webpage="first-floor-classroom" alt=""/>
+      <caption webpage="first-floor-classroom" alt=""/>
+      <caption webpage="gound-floor-office" alt=""/>
+      <caption webpage="ground-floor-classroom" alt=""/>
+      <caption webpage="ground-floor" alt=""/>
+      <caption webpage="ground-floor-music-room" alt=""/>
+      <caption webpage="second-floor-studio" alt=""/>
+      <caption webpage="ground-floor-toilet" alt=""/>
+    </file>
+    <file name="layer 8.png" crc="4005933471" seo="true" ref="ground-floor:ground-floor-toilet:ground-floor-workshop:ground-floor-hall:ground-floor-music-room:ground-floor-classroom:gound-floor-office:ground-floor-studio:first-floor:first-floor-toilet:first-floor-classroom:first-floor-office:first-floor-studio:second-floor:second-floor-toilet:second-floor-lab:second-floor-class-room:second-floor-studio">
+      <caption webpage="ground-floor-workshop" alt=""/>
+      <caption webpage="first-floor-studio" alt=""/>
+      <caption webpage="first-floor-studio" alt=""/>
+      <caption webpage="first-floor-office" alt=""/>
+      <caption webpage="first-floor-office" alt=""/>
+      <caption webpage="first-floor" alt=""/>
+      <caption webpage="first-floor" alt=""/>
+      <caption webpage="second-floor-lab" alt=""/>
+      <caption webpage="second-floor-toilet" alt=""/>
+      <caption webpage="second-floor-class-room" alt=""/>
+      <caption webpage="ground-floor-hall" alt=""/>
+      <caption webpage="second-floor" alt=""/>
+      <caption webpage="ground-floor-studio" alt=""/>
+      <caption webpage="first-floor-toilet" alt=""/>
+      <caption webpage="first-floor-toilet" alt=""/>
+      <caption webpage="first-floor-classroom" alt=""/>
+      <caption webpage="first-floor-classroom" alt=""/>
+      <caption webpage="gound-floor-office" alt=""/>
+      <caption webpage="ground-floor-classroom" alt=""/>
+      <caption webpage="ground-floor" alt=""/>
+      <caption webpage="ground-floor-music-room" alt=""/>
+      <caption webpage="second-floor-studio" alt=""/>
+      <caption webpage="ground-floor-toilet" alt=""/>
+    </file>
+    <file name="layer 9.png" crc="4291779699" seo="true" ref="ground-floor:ground-floor-toilet:ground-floor-workshop:ground-floor-hall:ground-floor-music-room:ground-floor-classroom:gound-floor-office:ground-floor-studio:first-floor:first-floor-toilet:first-floor-classroom:first-floor-office:first-floor-studio:second-floor:second-floor-toilet:second-floor-lab:second-floor-class-room:second-floor-studio">
+      <caption webpage="ground-floor-workshop" alt=""/>
+      <caption webpage="first-floor-studio" alt=""/>
+      <caption webpage="first-floor-studio" alt=""/>
+      <caption webpage="first-floor-office" alt=""/>
+      <caption webpage="first-floor-office" alt=""/>
+      <caption webpage="first-floor" alt=""/>
+      <caption webpage="first-floor" alt=""/>
+      <caption webpage="second-floor-lab" alt=""/>
+      <caption webpage="second-floor-toilet" alt=""/>
+      <caption webpage="second-floor-class-room" alt=""/>
+      <caption webpage="ground-floor-hall" alt=""/>
+      <caption webpage="second-floor" alt=""/>
+      <caption webpage="ground-floor-studio" alt=""/>
+      <caption webpage="first-floor-toilet" alt=""/>
+      <caption webpage="first-floor-toilet" alt=""/>
+      <caption webpage="first-floor-classroom" alt=""/>
+      <caption webpage="first-floor-classroom" alt=""/>
+      <caption webpage="gound-floor-office" alt=""/>
+      <caption webpage="ground-floor-classroom" alt=""/>
+      <caption webpage="ground-floor" alt=""/>
+      <caption webpage="ground-floor-music-room" alt=""/>
+      <caption webpage="second-floor-studio" alt=""/>
+      <caption webpage="ground-floor-toilet" alt=""/>
+    </file>
+    <file name="ground floor 2.jpg" crc="4003481915" seo="true" ref="ground-floor">
+      <caption webpage="ground-floor" alt=""/>
+    </file>
+    <file name="ground floor toilet.jpg" crc="3760174809" seo="true" ref="ground-floor-toilet">
+      <caption webpage="ground-floor-toilet" alt=""/>
+    </file>
+    <file name="ground floor workshop.jpg" crc="5444160" seo="true" ref="ground-floor-workshop">
+      <caption webpage="ground-floor-workshop" alt=""/>
+    </file>
+    <file name="ground floor hall.jpg" crc="4116584548" seo="true" ref="ground-floor-hall">
+      <caption webpage="ground-floor-hall" alt=""/>
+    </file>
+    <file name="ground floor music room.jpg" crc="3803431147" seo="true" ref="ground-floor-music-room">
+      <caption webpage="ground-floor-music-room" alt=""/>
+    </file>
+    <file name="ground floor classroom.jpg" crc="207312973" seo="true" ref="ground-floor-classroom">
+      <caption webpage="ground-floor-classroom" alt=""/>
+    </file>
+    <file name="ground floor office.jpg" crc="200961318" seo="true" ref="gound-floor-office">
+      <caption webpage="gound-floor-office" alt=""/>
+    </file>
+    <file name="ground floor studio.jpg" crc="3954917010" seo="true" ref="ground-floor-studio">
+      <caption webpage="ground-floor-studio" alt=""/>
+    </file>
+    <file name="layer 13 copy 2.png" crc="3861338996" seo="true" ref="first-floor:first-floor-toilet:first-floor-classroom:first-floor-office:first-floor-studio:second-floor:second-floor-toilet:second-floor-lab:second-floor-class-room:second-floor-studio">
+      <caption webpage="second-floor-studio" alt=""/>
+      <caption webpage="first-floor-studio" alt=""/>
+      <caption webpage="first-floor-studio" alt=""/>
+      <caption webpage="first-floor-studio" alt=""/>
+      <caption webpage="first-floor-studio" alt=""/>
+      <caption webpage="first-floor-toilet" alt=""/>
+      <caption webpage="first-floor-toilet" alt=""/>
+      <caption webpage="first-floor-toilet" alt=""/>
+      <caption webpage="first-floor-toilet" alt=""/>
+      <caption webpage="first-floor-classroom" alt=""/>
+      <caption webpage="first-floor-classroom" alt=""/>
+      <caption webpage="first-floor-classroom" alt=""/>
+      <caption webpage="first-floor-classroom" alt=""/>
+      <caption webpage="second-floor-lab" alt=""/>
+      <caption webpage="second-floor-toilet" alt=""/>
+      <caption webpage="second-floor-class-room" alt=""/>
+      <caption webpage="second-floor" alt=""/>
+      <caption webpage="first-floor-office" alt=""/>
+      <caption webpage="first-floor-office" alt=""/>
+      <caption webpage="first-floor-office" alt=""/>
+      <caption webpage="first-floor-office" alt=""/>
+      <caption webpage="first-floor" alt=""/>
+      <caption webpage="first-floor" alt=""/>
+      <caption webpage="first-floor" alt=""/>
+      <caption webpage="first-floor" alt=""/>
+    </file>
+    <file name="first floor-crop-u1129.png" crc="3849237842" seo="true" ref="first-floor:first-floor-toilet:first-floor-classroom:first-floor-office:first-floor-studio">
+      <caption webpage="first-floor-studio" alt=""/>
+      <caption webpage="first-floor-studio" alt=""/>
+      <caption webpage="first-floor-toilet" alt=""/>
+      <caption webpage="first-floor-toilet" alt=""/>
+      <caption webpage="first-floor-classroom" alt=""/>
+      <caption webpage="first-floor-classroom" alt=""/>
+      <caption webpage="first-floor-office" alt=""/>
+      <caption webpage="first-floor-office" alt=""/>
+      <caption webpage="first-floor" alt=""/>
+      <caption webpage="first-floor" alt=""/>
+    </file>
+    <file name="first level.jpg" crc="41716670" seo="true" ref="first-floor">
+      <caption webpage="first-floor" alt=""/>
+    </file>
+    <file name="first level322x953.jpg" crc="299248548" seo="true" ref="first-floor">
+      <caption webpage="first-floor" alt=""/>
+    </file>
+    <file name="blank.gif" crc="4208392903" ref="first-floor:first-floor-toilet:first-floor-classroom:first-floor-office:first-floor-studio"/>
+    <file name="first level toilet-crop-u1336.jpg" crc="239341586" seo="true" ref="first-floor-toilet">
+      <caption webpage="first-floor-toilet" alt=""/>
+    </file>
+    <file name="first level toilet-crop-u13362.jpg" crc="409956433" seo="true" ref="first-floor-toilet">
+      <caption webpage="first-floor-toilet" alt=""/>
+    </file>
+    <file name="first level classroom.jpg" crc="203413924" seo="true" ref="first-floor-classroom">
+      <caption webpage="first-floor-classroom" alt=""/>
+    </file>
+    <file name="first level classroom322x953.jpg" crc="130579458" seo="true" ref="first-floor-classroom">
+      <caption webpage="first-floor-classroom" alt=""/>
+    </file>
+    <file name="first level office.jpg" crc="4102301144" seo="true" ref="first-floor-office">
+      <caption webpage="first-floor-office" alt=""/>
+    </file>
+    <file name="first level office322x953.jpg" crc="3831534041" seo="true" ref="first-floor-office">
+      <caption webpage="first-floor-office" alt=""/>
+    </file>
+    <file name="first level studio.jpg" crc="393588426" seo="true" ref="first-floor-studio">
+      <caption webpage="first-floor-studio" alt=""/>
+    </file>
+    <file name="first level studio322x953.jpg" crc="288354966" seo="true" ref="first-floor-studio">
+      <caption webpage="first-floor-studio" alt=""/>
+    </file>
+    <file name="layer 12.png" crc="452705188" seo="true" ref="second-floor:second-floor-toilet:second-floor-lab:second-floor-class-room:second-floor-studio">
+      <caption webpage="second-floor-class-room" alt=""/>
+      <caption webpage="second-floor-class-room" alt=""/>
+      <caption webpage="second-floor" alt=""/>
+      <caption webpage="second-floor" alt=""/>
+      <caption webpage="second-floor-studio" alt=""/>
+      <caption webpage="second-floor-studio" alt=""/>
+      <caption webpage="second-floor-lab" alt=""/>
+      <caption webpage="second-floor-lab" alt=""/>
+      <caption webpage="second-floor-toilet" alt=""/>
+      <caption webpage="second-floor-toilet" alt=""/>
+    </file>
+    <file name="second floor.png" crc="4278364521" seo="true" ref="second-floor:second-floor-toilet:second-floor-lab:second-floor-class-room:second-floor-studio">
+      <caption webpage="second-floor-class-room" alt=""/>
+      <caption webpage="second-floor" alt=""/>
+      <caption webpage="second-floor-studio" alt=""/>
+      <caption webpage="second-floor-lab" alt=""/>
+      <caption webpage="second-floor-toilet" alt=""/>
+    </file>
+    <file name="second level.jpg" crc="3764973102" seo="true" ref="second-floor">
+      <caption webpage="second-floor" alt=""/>
+    </file>
+    <file name="second level toilet.jpg" crc="3765453196" seo="true" ref="second-floor-toilet">
+      <caption webpage="second-floor-toilet" alt=""/>
+    </file>
+    <file name="second level lab.jpg" crc="353810612" seo="true" ref="second-floor-lab">
+      <caption webpage="second-floor-lab" alt=""/>
+    </file>
+    <file name="second level classroom.jpg" crc="296154340" seo="true" ref="second-floor-class-room">
+      <caption webpage="second-floor-class-room" alt=""/>
+    </file>
+    <file name="second level studio.jpg" crc="3960335739" seo="true" ref="second-floor-studio">
+      <caption webpage="second-floor-studio" alt=""/>
+    </file>
+  </folder>
+  <file name="index.html" crc="4072851573" seo="true" mt="1495594622008" redirect="true"/>
+  <file name="ground-floor.html" crc="4215257058" seo="true" mt="1495563116075" redirect="true"/>
+  <file name="ground-floor-toilet.html" crc="4103797847" seo="true" mt="1495563116075" redirect="true"/>
+  <file name="ground-floor-workshop.html" crc="528553631" seo="true" mt="1495563116075" redirect="true"/>
+  <file name="ground-floor-hall.html" crc="487465242" seo="true" mt="1495563116075" redirect="true"/>
+  <file name="ground-floor-music-room.html" crc="4075600259" seo="true" mt="1495563116075" redirect="true"/>
+  <file name="ground-floor-classroom.html" crc="73980247" seo="true" mt="1495563116075" redirect="true"/>
+  <file name="gound-floor-office.html" crc="4023181379" seo="true" mt="1495563116075" redirect="true"/>
+  <file name="ground-floor-studio.html" crc="249746384" seo="true" mt="1495563116075" redirect="true"/>
+  <file name="first-floor.html" crc="74033232" seo="true" mt="1495563116084" redirect="true"/>
+  <file name="first-floor-toilet.html" crc="4243592488" seo="true" mt="1495563116084" redirect="true"/>
+  <file name="first-floor-classroom.html" crc="3812539233" seo="true" mt="1495563116085" redirect="true"/>
+  <file name="first-floor-office.html" crc="4255723487" seo="true" mt="1495563116085" redirect="true"/>
+  <file name="first-floor-studio.html" crc="493965280" seo="true" mt="1495563116086" redirect="true"/>
+  <file name="second-floor.html" crc="36980829" seo="true" mt="1495563116086" redirect="true"/>
+  <file name="second-floor-toilet.html" crc="399068442" seo="true" mt="1495563116086" redirect="true"/>
+  <file name="second-floor-lab.html" crc="335204714" seo="true" mt="1495563116087" redirect="true"/>
+  <file name="second-floor-class-room.html" crc="3919037222" seo="true" mt="1495563116087" redirect="true"/>
+  <file name="second-floor-studio.html" crc="4195185481" seo="true" mt="1495563116088" redirect="true"/>
+</manifest>
